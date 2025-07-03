@@ -1,5 +1,6 @@
 # Scalars, Vectors, Matrices, and Tensors - Code Along
 
+## Check the index.ipynb file for my working
 
 ## Introduction 
 In this lesson, you'll be introduced to the basic mathematical entities used in linear algebra. We'll also look at how these entities are created (and later manipulated) in Python using NumPy. 
